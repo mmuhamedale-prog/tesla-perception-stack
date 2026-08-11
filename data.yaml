@@ -1,0 +1,17 @@
+path: /kaggle/input/bdd100k-yolo
+train: /kaggle/input/bdd100k-yolo/train/images
+val: /kaggle/input/bdd100k-yolo/val/images
+test: /kaggle/input/bdd100k-yolo/test/images
+
+nc: 10
+names:
+  - person
+  - rider
+  - car
+  - bus
+  - truck
+  - bike
+  - motor
+  - traffic light
+  - traffic sign
+  - train
