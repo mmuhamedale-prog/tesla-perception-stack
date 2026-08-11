@@ -1,7 +1,6 @@
-path: /kaggle/input/bdd100k-yolo
-train: /kaggle/input/bdd100k-yolo/train/images
-val: /kaggle/input/bdd100k-yolo/val/images
-test: /kaggle/input/bdd100k-yolo/test/images
+path: 
+train: /data/images/train
+val: /data/images/val
 
 nc: 10
 names:
